@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "url": "src/assets/insta6.png"
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "url": "src/assets/insta1.png"
+  },
+  {
+    "id": 3,
+    "type": "image",
+    "url": "src/assets/insta2.png"
+  },
+  {
+    "id": 4,
+    "type": "image",
+    "url": "src/assets/insta3.png"
+  },
+  {
+    "id": 5,
+    "type": "image",
+    "url": "src/assets/insta4.png"
+  },
+  {
+    "id": 6,
+    "type": "image",
+    "url": "src/assets/insta5.png"
+  }
+]
